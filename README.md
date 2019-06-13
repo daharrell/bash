@@ -1,21 +1,19 @@
 Repository for useful PowerCLI scripts
 
 This is a repository for useful scripts and commands that I have written and used in production environments to accomplish multiple goals.
+
 Accessing the Repository
-Load the GitHub repository page: https://github.com/daharrell/vmware-scripts/
+Load the GitHub repository page: https://github.com/daharrell/bash
 Click on the green “Clone or Download” button and then click “Download ZIP”
 Once downloaded, extract the zip file to the location of your choosing
 At this point, you now have a local copy of the repository
+
 Prerequisites
-
-You will need PowerCLI to use these scripts and at minimum one ESXi host but they will also work on vCenter for larger environments
-Built With
-
-    My imagination and desire to learn
+RHEL or Centos linux distro
 
 Authors
 
-    Dan Harrell - Initial work - Dan Harrell
+Dan Harrell - Initial work - Dan Harrell
 
 License
 
