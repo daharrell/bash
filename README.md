@@ -5,7 +5,7 @@ goals.
 
 
 ## Accessing the Repository
-<li>Load the GitHub repository page: <a href="https://github.com/daharrell/vmware-scripts/">https://github.com/daharrell/vmware-scripts/</a></li>
+<li>Load the GitHub repository page: <a href="https://github.com/daharrell/bash/">https://github.com/daharrell/bash/</a></li>
 <li>Click on the green “Clone or Download” button and then click “Download ZIP”</li>
 <li>Once downloaded, extract the zip file to the location of your choosing</li>
 <li>At this point, you now have a local copy of the repository</li>
